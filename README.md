@@ -9,4 +9,4 @@ Haciendo click en este [enlace](https://colab.research.google.com/drive/1hJe84-n
 
 1. Una vez abierto el cuaderno de colab clickando en el enlace mencionado antes, se debe guardar una copia de este cuaderno en  
 2. 
-3. cossota
+3. 
