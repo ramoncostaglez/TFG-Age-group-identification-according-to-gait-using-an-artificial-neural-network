@@ -29,3 +29,7 @@ Haciendo click en este [enlace](https://colab.research.google.com/drive/1hJe84-n
 En primer lugar, agradecer a Marzia Pipino la cesión de los datos para su utilización en este trabajo. Para ver el repositorio con el dataset completo de Marzia se debe seguir el siguiente enlace, [Marzia Dataset](https://github.com/Marpino/Walking-dataset). 
 
 En la carpeta 'RamonDataset', podemos encontrar en su interior dos carpetas, 'Elderly' y 'Young'. En cada una de se encuentran los datos ya calibrados, en dos carpetas, los archivos que corresponden solo a los valores de aceleración y los que se encuentran los valores de aceleración linear y velocidad angular de todos los sensores.
+
+### Modelo
+
+Mediante el archivo 'ExpFinal.h5' y siguiendo las instrucciones aquí propuestas, se pueden importar el modelo en el cuaderno de Colaboratory.
