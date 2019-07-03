@@ -1,7 +1,6 @@
-# ___BETA___
 # __Repositorio__
 
-### TFG realizado por Ramón Costa González
+#### TFG realizado por Ramón Costa González
 
 ___
 
